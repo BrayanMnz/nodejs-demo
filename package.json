@@ -1,0 +1,14 @@
+{
+  "name": "tda-251",
+  "version": "1.0.0",
+  "description": "Quick Demo of NodeJS for the TDA-251 class at TEP PUCMM ",
+  "main": "./server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/server.js",
+    "otro": "node ./util/simple-script.js",
+    "concurrency": "node ./concurrency/server.js"
+  },
+  "author": "brayanmnz",
+  "license": "ISC"
+}

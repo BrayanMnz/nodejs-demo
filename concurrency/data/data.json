@@ -1,0 +1,56 @@
+{
+    "programa": "Técnico en Desarrollo de Aplicaciones Multiplataformas",
+    "institución": "TEP PUCMM",
+    "cursosRequeridos": [
+      {
+        "codigo": "DAM101",
+        "nombre": "Introducción a la Programación",
+        "creditos": 3,
+        "semestre": 1,
+        "descripcion": "Fundamentos de la programación y lógica computacional."
+      },
+      {
+        "codigo": "DAM102",
+        "nombre": "Desarrollo Web Básico",
+        "creditos": 3,
+        "semestre": 1,
+        "descripcion": "Creación de páginas web utilizando HTML, CSS y JavaScript."
+      },
+      {
+        "codigo": "DAM201",
+        "nombre": "Bases de Datos",
+        "creditos": 4,
+        "semestre": 2,
+        "descripcion": "Conceptos de bases de datos y SQL."
+      },
+      {
+        "codigo": "DAM202",
+        "nombre": "Desarrollo de Aplicaciones Móviles",
+        "creditos": 4,
+        "semestre": 2,
+        "descripcion": "Creación de aplicaciones móviles para plataformas Android e iOS."
+      },
+      {
+        "codigo": "DAM301",
+        "nombre": "Programación Orientada a Objetos",
+        "creditos": 3,
+        "semestre": 3,
+        "descripcion": "Principios de la programación orientada a objetos."
+      },
+      {
+        "codigo": "DAM302",
+        "nombre": "Interacción Hombre-Máquina",
+        "creditos": 3,
+        "semestre": 3,
+        "descripcion": "Diseño y evaluación de interfaces de usuario."
+      },
+      {
+        "codigo": "DAM401",
+        "nombre": "Proyecto Final",
+        "creditos": 6,
+        "semestre": 4,
+        "descripcion": "Desarrollo de un proyecto integrador que aplique los conocimientos adquiridos."
+      }
+    ]
+  }
+  
